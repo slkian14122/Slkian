@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Slkian/static/css/main.52b8cdce.css",
+    "main.js": "/Slkian/static/js/main.0f7f43df.js",
+    "index.html": "/Slkian/index.html",
+    "main.52b8cdce.css.map": "/Slkian/static/css/main.52b8cdce.css.map",
+    "main.0f7f43df.js.map": "/Slkian/static/js/main.0f7f43df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b8cdce.css",
+    "static/js/main.0f7f43df.js"
+  ]
+}
